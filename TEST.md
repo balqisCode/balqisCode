@@ -42,7 +42,7 @@
 
 [Link text](https://github.com)
 [Link with title](https://github.com "GitHub")
-![Alt text](https://via.placeholder.com/150)
+![Forest](https://images.unsplash.com/photo-1448375240586-882707db888b?w=600)
 
 ---
 
@@ -52,7 +52,7 @@ Inline `code here`
 ```python
 # Fenced code block
 def hello():
-    print("Hello, GitHub!")
+    print("Hello, Everyone!")
 ```
 ```bash
 echo "Bash example"
