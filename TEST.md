@@ -106,7 +106,7 @@ Hidden content goes here!
 ## Alerts (GitHub-flavored)
 
 > [!NOTE]
-> Useful information that users should know.
+> Useful information that users should know. Learn using all the tools you have, especially AI tools like cloud.ai
 
 > [!TIP]
 > Helpful advice for doing things better.
