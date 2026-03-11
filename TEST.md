@@ -9,9 +9,9 @@
 
 ## Text Formatting
 
-**Bold text**
-*Italic text*
-~~Strikethrough~~
+**Bold text**\
+*Italic text*\
+~~Strikethrough~~\
 ***Bold and italic***
 > Blockquote
 > > Nested blockquote
@@ -121,3 +121,47 @@ Hidden content goes here!
 > Advises about risks or negative outcomes.
 
 ---
+
+## Horizontal Rules
+
+---
+***
+___
+
+---
+
+## HTML (works in GitHub markdown)
+
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
+
+<sup>Superscript</sup> and <sub>Subscript</sub>
+
+<mark>Highlighted text</mark>
+
+---
+
+## Math (GitHub supports LaTeX) 
+To write math formulas more easily and beautifully
+
+Inline: $E = mc^2$
+
+Block:
+$$
+\sum_{i=1}^{n} x_i = x_1 + x_2 + \cdots + x_n
+$$\
+$\alpha + \beta$ 
+---
+
+## Mermaid Diagrams
+```mermaid
+graph TD
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Do this]
+    B -->|No| D[Do that]
+```
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Hello!
+    Bob-->>Alice: Hi there!
+```
+
