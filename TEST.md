@@ -109,8 +109,7 @@ Hidden content goes here!
 > Useful information that users should know.
 
 > [!TIP]
-> Helpful advice for
-  doing things better.
+> Helpful advice for doing things better.
 
 > [!IMPORTANT]
 > Key information users need to know.
