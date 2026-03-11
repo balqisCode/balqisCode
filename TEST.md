@@ -92,6 +92,7 @@ Here's a sentence with a footnote.[^1]
 Hidden content goes here!
 - Item A
 - Item B
+- Item C 
 
 </details>
 
