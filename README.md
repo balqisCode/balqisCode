@@ -39,4 +39,4 @@ Currently focused on understanding SaaS products in the **healthcare space**.
 ## 📫 Reach Me
 
 - LinkedIn: [www.linkedin.com/in/balqis-zulkifili]
-- Email: [balqiszulkifili09@gmail.com]
+- Email: [balqiszulkifili9@gmail.com]
